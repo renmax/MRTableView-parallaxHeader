@@ -16,7 +16,7 @@ a subclass of UITableView with parallaxheader
        tableView.MRDelegate = self;
        tableView.dataSource = self;
    
-  ##note
+##note:
     you should use MRDelegate  instead of delegate, the rest just the same as you use UITablView.  
    
          
