@@ -11,14 +11,17 @@ a subclass of UITableView with parallaxheader
 
    Just drag MRTableView.h and MRTableView.m into your project. #import "MRTableView.h" at your file where you want
    to use MRTableView.
+   
+   
     ```
        MRTableView *tableView = [[MRTableView alloc] initWithFrame:self.view.bounds style:UITableViewStylePlain];
        tableView.MRDelegate = self;
        tableView.dataSource = self;
     ```
     
+     ##note
     ```
-    "note: you should use MRDelegate  instead of delegate, the rest just the same as you use UITablView".  
+    "you should use MRDelegate  instead of delegate, the rest just the same as you use UITablView".  
     ```
          
     
