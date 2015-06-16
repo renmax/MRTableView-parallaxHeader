@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D9D53B34-1968-4DB5-BA5E-D944903381B4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MRTableViewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9A557C2F6300AB356044366F4B4BAAF9E37B09FF</key>
+		<string>https://github.com/renmax/MRTableView-parallaxHeader.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MRTableViewDemo/MRTableViewDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9A557C2F6300AB356044366F4B4BAAF9E37B09FF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/renmax/MRTableView-parallaxHeader.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9A557C2F6300AB356044366F4B4BAAF9E37B09FF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9A557C2F6300AB356044366F4B4BAAF9E37B09FF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MRTableView-parallaxHeader</string>
+		</dict>
+	</array>
+</dict>
+</plist>
