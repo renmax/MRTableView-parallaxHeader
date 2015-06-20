@@ -23,10 +23,6 @@ a subclass of UITableView with parallaxheader
     
        
   
-## Result 
-
-    
-   ![img_0175](https://cloud.githubusercontent.com/assets/8423149/6499906/e27ef27e-c33d-11e4-9d23-6222adb769e1.PNG)
 
 
 ## License
