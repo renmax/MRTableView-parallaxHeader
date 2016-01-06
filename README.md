@@ -19,7 +19,6 @@ a subclass of UITableView with parallaxheader
        
        
  ## presetation
- 
     ![](https://github.com/renmax/MRTableView-parallaxHeader/blob/master/MRTableViewDemo/4.png)
     
   
