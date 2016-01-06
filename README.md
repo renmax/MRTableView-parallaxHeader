@@ -24,6 +24,8 @@ a subclass of UITableView with parallaxheader
        
   
 
+## Presentation
+![](https://github.com/renmax/MRTableView-parallaxHeader/blob/master/MRTableViewDemo/4.png)
 
 ## License
    
