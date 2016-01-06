@@ -15,6 +15,14 @@ a subclass of UITableView with parallaxheader
        MRTableView *tableView = [[MRTableView alloc] initWithFrame:self.view.bounds style:UITableViewStylePlain];
        tableView.MRDelegate = self;
        tableView.dataSource = self;
+       
+       
+       
+ ## presetation
+    ![](https://github.com/renmax/MRTableView-parallaxHeader/blob/master/MRTableViewDemo/1.png)
+    ![](https://github.com/renmax/MRTableView-parallaxHeader/blob/master/MRTableViewDemo/4.png)
+    
+  
    
  note:
     you should use MRDelegate  instead of delegate, the rest just the same as you use UITablView.  
