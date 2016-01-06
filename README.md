@@ -16,13 +16,6 @@ a subclass of UITableView with parallaxheader
        tableView.MRDelegate = self;
        tableView.dataSource = self;
        
-       
-       
-  
-    ![](https://github.com/renmax/MRTableView-parallaxHeader/blob/master/MRTableViewDemo/4.png)
-    
-  
-   
  note:
     you should use MRDelegate  instead of delegate, the rest just the same as you use UITablView.  
    
